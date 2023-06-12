@@ -8,4 +8,4 @@
 <a href= "https://www.figma.com/file/jX4xAgypHbSwDkps0Jqd72/Juan-Esteban-Gamboa-%2F-Figma-Exercise?type=design&node-id=28%3A383&t=uTpN7BfPDroiRee2-1" >Link de figma</a>
 
 <h2>Punto 2: html</h2>
-<img src="./Publicc/HTML_Page.png" alt="HTML_Page">
+<img src="./Publicc/images/HTML_Page.png" alt="HTML_Page"> 
